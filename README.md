@@ -11,7 +11,9 @@
 
 ## **Задание 2**
 
-- ![scrinshot](https://github.com/Evgenii-379/12-02.md/blob/main/Снимок%20экрана%202024-04-08%20125027.png)
-- ![scrinshot](https://github.com/Evgenii-379/12-02.md/blob/main/Снимок%20экрана%202024-04-08%20125040.png)
+- ![scrinshot](https://github.com/Evgenii-379/12-02.md/blob/main/Снимок%20экрана%202024-04-09%20152401.png)
+
+
+
 
 
